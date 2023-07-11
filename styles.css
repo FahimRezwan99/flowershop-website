@@ -1,24 +1,27 @@
-@import url("https://fonts.gogleapis.com/css?family=Lato:400,700,800,600");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,800,600");
+
 .hidden,
 .hidden * {
     pointer-events: none;
     visibility: hidden;
-    body{
-        font-family: 'Lato', sans-serif;
-font-family: 'Work Sans', sans-serif;
-    }
 }
-.website-section1{
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.website-section1 {
     align-items: center;
     background-color: white;
-    border: 1px none;
+    border: none;
     display: flex;
     flex-direction: column;
-    height: 4867px;
+    height: 1867px;
     overflow: hidden;
     width: 1920px;
 }
-.website-section11{
+
+.website-section11 {
     align-items: center;
     background-color: #e554731a;
     display: flex;
@@ -27,7 +30,8 @@ font-family: 'Work Sans', sans-serif;
     min-width: 1920px;
     padding: 0 240px;
 }
-.website-section12{
+
+.website-section12 {
     align-items: flex-start;
     display: flex;
     flex-direction: column;
@@ -36,29 +40,32 @@ font-family: 'Work Sans', sans-serif;
     min-height: 506px;
     width: 712px;
 }
-.website-section13{
+
+.website-section13 {
     color: #272727;
     font-weight: 800;
     letter-spacing: 0;
     min-height: 288px;
     line-height: normal;
     width: 708px;
-   font: size 80px;
+    font-size: 80px;
 }
-.it-is-a-long-establi-1{
+
+.it-is-a-long-establi-1 {
     min-height: 90px;
     width: 6634px;
     font-size: 18px;
+}
 
+.website-section1 .it-is-a-long-establi-4 {
+    letter-spacing: 0;
+    line-height: 30px;
+    font-size: 18px;
 }
-.website-section1 .it-is-a-long-establi-4{
-letter-spacing: 0;
-line-height: 30px;
-font-size: 18px;
-}
-.website-section16{
+
+.website-section16 {
     align-items: flex-start;
-    background-color:#e55473;
+    background-color: #e55473;
     border-radius: 8px;
     display: flex;
     gap: 10px;
@@ -67,7 +74,8 @@ font-size: 18px;
     position: relative;
     width: fit-content;
 }
-.website-section17{
+
+.website-section17 {
     letter-spacing: 0;
     font-size: 20px;
     line-height: normal;
@@ -76,13 +84,17 @@ font-size: 18px;
     white-space: nowrap;
     width: fit-content;
 }
-.website-section18{
-    align-self: flex-end;
+
+.website-section18 {
+    display: flex;
+    margin-right: 30px;
+    margin-left: 300px;
     height: 800px;
     object-fit: cover;
     width: 635px;
 }
-.website-section2{
+
+.website-section2 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -92,9 +104,9 @@ font-size: 18px;
     margin-top: 178px;
     min-height: 132px;
     width: 598px;
-
 }
-.website-section21{
+
+.website-section21 {
     letter-spacing: 0;
     line-height: normal;
     margin-right: 4px;
@@ -104,7 +116,8 @@ font-size: 18px;
     white-space: nowrap;
     font-size: 40px;
 }
-.it-is-a-long-establi{
+
+.it-is-a-long-establi {
     font-size: 18px;
     letter-spacing: 0;
     line-height: 30px;
@@ -113,7 +126,8 @@ font-size: 18px;
     text-align: center;
     width: 594px;
 }
-.website-section3{
+
+.website-section3 {
     align-items: flex-start;
     display: flex;
     gap: 22px;
@@ -121,7 +135,8 @@ font-size: 18px;
     margin-top: 48px;
     min-width: 1440px;
 }
-.website-section31{
+
+.website-section31 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -129,23 +144,25 @@ font-size: 18px;
     min-height: 605px;
     width: 466px;
 }
-.website-section32{
+
+.website-section32 {
     align-items: flex-end;
-    background-image: url('../flowershop-website/images/Rectangle\ pink\ border.png');
+    background-image: url('../flowershop-website/images/Rectangle%20pink%20border.png');
     background-size: 100% 100%;
     display: flex;
     height: 538px;
     margin-right: 2px;
     min-width: 464px;
     padding: 0 76px;
-
 }
-.website-section33{
+
+.website-section33 {
     height: 228px;
     object-fit: cover;
     width: 310px;
 }
-.website-section34{
+
+.website-section34 {
     font-size: 24px;
     letter-spacing: 0;
     line-height: 35px;
@@ -154,9 +171,9 @@ font-size: 18px;
     text-align: center;
     text-decoration: underline;
     white-space: nowrap;
-    
 }
-.website-section4{
+
+.website-section4 {
     align-items: center;
     background-color: #111010;
     display: flex;
@@ -165,12 +182,14 @@ font-size: 18px;
     padding: 128px 648px;
     width: 1922px;
 }
-.website-section41{
+
+.website-section41 {
     height: 471px;
     object-fit: cover;
     width: 314px;
 }
-.website-section42{
+
+.website-section42 {
     font-size: 24px;
     letter-spacing: 0;
     line-height: 35px;
@@ -180,7 +199,8 @@ font-size: 18px;
     text-decoration: underline;
     white-space: nowrap;
 }
-.website-section43{
+
+.website-section43 {
     font-size: 24px;
     align-items: flex-start;
     background-color: #2727270d;
@@ -193,21 +213,23 @@ font-size: 18px;
     min-width: 1440px;
     padding: 86px 173px;
 }
-.website-section44{
+
+.website-section44 {
     align-items: center;
     display: flex;
     flex-direction: column;
     gap: 24px;
     min-height: 147px;
     width: 374px;
-
 }
-.website-section45{
+
+.website-section45 {
     height: 88px;
     margin-right: 2px;
     width: 88px;
 }
-.website-section46{
+
+.website-section46 {
     font-size: 24px;
     letter-spacing: 0;
     line-height: 35px;
@@ -216,7 +238,8 @@ font-size: 18px;
     text-align: center;
     white-space: nowrap;
 }
-.website-section47{
+
+.website-section47 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -224,16 +247,18 @@ font-size: 18px;
     min-height: 147px;
     width: 318px;
 }
-.website-section48{
-font-size: 24px;
-letter-spacing: 0;
-line-height: 35px;
-margin-right: 2px;
-min-width: 316px;
-text-align: center;
-white-space: nowrap;
+
+.website-section48 {
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-right: 2px;
+    min-width: 316px;
+    text-align: center;
+    white-space: nowrap;
 }
-.website-section49{
+
+.website-section49 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -242,7 +267,7 @@ white-space: nowrap;
     width: 204px;
 }
 
-.website-section466{
+.website-section466 {
     font-size: 24px;
     line-height: 35px;
     margin-right: 2px;
@@ -250,7 +275,8 @@ white-space: nowrap;
     text-align: center;
     white-space: nowrap;
 }
-.website-section477{
+
+.website-section477 {
     align-items: center;
     background-color: #e554730d;
     border-radius: 8px;
@@ -261,9 +287,9 @@ white-space: nowrap;
     margin-top: 128px;
     min-width: 1922px;
     padding: 0 395px;
-
 }
-.website-section488f{
+
+.website-section488f {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -271,7 +297,8 @@ white-space: nowrap;
     min-height: 228px;
     width: 598px;
 }
-.website-section499{
+
+.website-section499 {
     font-size: 40px;
     color: transparent;
     font-weight: 800;
@@ -282,17 +309,20 @@ white-space: nowrap;
     min-width: 537px;
     white-space: nowrap;
 }
-.website-section5{
+
+.website-section5 {
     color: #e55473;
 }
-.t-is-a-long-establis-2{
+
+.it-is-a-long-establis-2 {
     margin-right: 4px;
     margin-top: 24px;
     min-height: 60px;
     text-align: center;
     width: 594px;
 }
-.website-section51{
+
+.website-section51 {
     align-items: flex-start;
     background-color: #e55473;
     border-radius: 8px;
@@ -304,7 +334,8 @@ white-space: nowrap;
     position: relative;
     width: fit-content;
 }
-.website-section52{
+
+.website-section52 {
     font-size: 20px;
     letter-spacing: 0;
     line-height: normal;
@@ -313,12 +344,14 @@ white-space: nowrap;
     white-space: nowrap;
     width: fit-content;
 }
-.website-section53{
+
+.website-section53 {
     height: 420px;
     object-fit: cover;
     width: 318px;
 }
-.website-section54{
+
+.website-section54 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -328,7 +361,8 @@ white-space: nowrap;
     min-height: 132px;
     width: 598px;
 }
-.website-section55{
+
+.website-section55 {
     font-size: 40px;
     letter-spacing: 0;
     line-height: normal;
@@ -338,33 +372,39 @@ white-space: nowrap;
     text-align: center;
     white-space: nowrap;
 }
-.website-section56{
+
+.website-section56 {
     font-size: 18px;
     letter-spacing: 0;
-   line-height: 30px;
-   margin-right: 4px;
-   min-height: 60px;
-  text-align: center;
-  width: 594px;
+    line-height: 30px;
+    margin-right: 4px;
+    min-height: 60px;
+    text-align: center;
+    width: 594px;
 }
-.website-section57{
+
+.website-section57 {
     align-items: flex-start;
     display: flex;
     gap: 24px;
     margin-top: 48px;
     min-width: 1440px;
 }
-.website-section58{
+
+.website-section58 {
     height: 396px;
     object-fit: cover;
     width: 342px;
 }
-.website-section59{ height: 396px;
+
+.website-section59 {
+    height: 396px;
     width: 342px;
 }
-.website-section6{
+
+.website-section6 {
     align-items: center;
-    background-image: url('../flowershop-website/images/Rectangle\ 9.png');
+    background-image: url('../flowershop-website/images/Rectangle%209.png');
     background-size: 100% 100%;
     display: flex;
     flex-direction: column;
@@ -374,7 +414,8 @@ white-space: nowrap;
     padding: 121px 0;
     width: 1440px;
 }
-.website-section61{
+
+.website-section61 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -383,5 +424,126 @@ white-space: nowrap;
     margin-top: 1px;
     min-height: 94px;
     width: 377px;
+}
+
+.website-section62 {
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 4px;
+    min-height: 48px;
+    min-width: 373px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.website-section63 {
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-right: 4px;
+    min-width: 231px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.website-section64 {
+    align-items: flex-start;
+    display: flex;
+    gap: 16px;
+    min-width: 866px;
+}
+
+.website-section65 {
+    align-items: flex-end;
+    background-color: white;
+    border-radius: 8px;
+    display: flex;
+    height: 64px;
+    min-width: 700px;
+}
+
+.website-section66 {
+    font-size: 16px;
+    color: #111010;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 19px;
+    min-width: 165px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.website-section67 {
+    align-items: flex-end;
+    background-color: #e55473;
+    border-radius: 8px;
+    display: flex;
+    height: 64px;
+    min-width: 150px;
+    padding: 18.3px 31px;
+}
+
+.website-section68 {
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 27px;
+    width: 88px;
+}
+
+.website-section69 {
+    align-items: flex-start;
+    display: flex;
+    height: 449px;
+    margin-left: 4px;
+    margin-top: 128px;
+    min-width: 1928px;
+}
+
+.website-section7 {
+    align-items: center;
+    background-color: #111010;
+    display: flex;
+    flex-direction: column;
+    min-height: 449px;
+    padding: 128px 648px;
+    width: 1922px;
+}
+
+.website-section71 {
+    font-size: 48px;
+    color: transparent;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 1px;
+    min-height: 58px;
+    min-width: 259px;
+}
+
+.website-section72 {
+    color: #e55473;
+}
+
+.website-section73 {
+    color: white;
+}
+
+.website-section74 {
+    margin-left: 1px;
+    margin-top: 32px;
+    min-width: 355px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.website-section74 {
+    color: #ffffff66;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
