@@ -202,4 +202,64 @@ font-size: 18px;
     width: 374px;
 
 }
+.website-section45{
+    height: 88px;
+    margin-right: 2px;
+    width: 88px;
+}
+.website-section46{
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-right: 2px;
+    min-width: 372px;
+    text-align: center;
+    white-space: nowrap;
+}
+.website-section47{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    min-height: 147px;
+    width: 318px;
+}
+.website-section48{
+font-size: 24px;
+letter-spacing: 0;
+line-height: 35px;
+margin-right: 2px;
+min-width: 316px;
+text-align: center;
+white-space: nowrap;
+}
+.website-section49{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    min-height: 147px;
+    width: 204px;
+}
 
+.website-section466{
+    font-size: 24px;
+    line-height: 35px;
+    margin-right: 2px;
+    min-width: 202px;
+    text-align: center;
+    white-space: nowrap;
+}
+.website-section477{
+    align-items: center;
+    background-color: #e554730d;
+    border-radius: 8px;
+    display: flex;
+    gap: 182px;
+    height: 620px;
+    margin-right: 2px;
+    margin-top: 128px;
+    min-width: 1922px;
+    padding: 0 395px;
+    
+}
