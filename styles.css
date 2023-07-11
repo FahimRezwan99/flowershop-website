@@ -1,4 +1,70 @@
-body{
-    font-family: 'Lato', sans-serif;
+@import url("https://fonts.gogleapis.com/css?family=Lato:400,700,800,600");
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+    body{
+        font-family: 'Lato', sans-serif;
 font-family: 'Work Sans', sans-serif;
+    }
 }
+.website-section1{
+    align-items: center;
+    background-color: white;
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 4867px;
+    overflow: hidden;
+    width: 1920px;
+}
+.website-section11{
+    align-items: center;
+    background-color: #e554731a;
+    display: flex;
+    gap: 93px;
+    height: 850px;
+    min-width: 1920px;
+    padding: 0 240px;
+}
+.website-section12{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 50px;
+    min-height: 506px;
+    width: 712px;
+}
+.website-section13{
+    color: #272727;
+    font-weight: 800;
+    letter-spacing: 0;
+    min-height: 288px;
+    line-height: normal;
+    width: 708px;
+   font: size 80px;
+}
+.it-is-a-long-establi-1{
+    min-height: 90px;
+    width: 6634px;
+    font-size: 18px;
+
+}
+.website-section1 .it-is-a-long-establi-4{
+letter-spacing: 0;
+line-height: 30px;
+font-size: 18px;
+}
+.website-section16{
+    align-items: flex-start;
+    background-color:#e55473;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+    padding: 20px 43px;
+    position: relative;
+    width: fit-content;
+}
+
