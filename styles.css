@@ -67,4 +67,139 @@ font-size: 18px;
     position: relative;
     width: fit-content;
 }
+.website-section17{
+    letter-spacing: 0;
+    font-size: 20px;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+.website-section18{
+    align-self: flex-end;
+    height: 800px;
+    object-fit: cover;
+    width: 635px;
+}
+.website-section2{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 40px;
+    gap: 24px;
+    margin-left: 4px;
+    margin-top: 178px;
+    min-height: 132px;
+    width: 598px;
+
+}
+.website-section21{
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 4px;
+    min-height: 48px;
+    min-width: 392px;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 40px;
+}
+.it-is-a-long-establi{
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-right: 4px;
+    min-height: 60px;
+    text-align: center;
+    width: 594px;
+}
+.website-section3{
+    align-items: flex-start;
+    display: flex;
+    gap: 22px;
+    height: 605px;
+    margin-top: 48px;
+    min-width: 1440px;
+}
+.website-section31{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    min-height: 605px;
+    width: 466px;
+}
+.website-section32{
+    align-items: flex-end;
+    background-image: url('../flowershop-website/images/Rectangle\ pink\ border.png');
+    background-size: 100% 100%;
+    display: flex;
+    height: 538px;
+    margin-right: 2px;
+    min-width: 464px;
+    padding: 0 76px;
+
+}
+.website-section33{
+    height: 228px;
+    object-fit: cover;
+    width: 310px;
+}
+.website-section34{
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-right: 3px;
+    min-width: 181px;
+    text-align: center;
+    text-decoration: underline;
+    white-space: nowrap;
+    
+}
+.website-section4{
+    align-items: center;
+    background-color: #111010;
+    display: flex;
+    flex-direction: column;
+    min-height: 449px;
+    padding: 128px 648px;
+    width: 1922px;
+}
+.website-section41{
+    height: 471px;
+    object-fit: cover;
+    width: 314px;
+}
+.website-section42{
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-right: 1px;
+    min-width: 181px;
+    text-align: center;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+.website-section43{
+    font-size: 24px;
+    align-items: flex-start;
+    background-color: #2727270d;
+    border-radius: 8px;
+    display: flex;
+    gap: 98px;
+    height: 320px;
+    justify-content: flex-end;
+    margin-top: 128px;
+    min-width: 1440px;
+    padding: 86px 173px;
+}
+.website-section44{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    min-height: 147px;
+    width: 374px;
+
+}
 
